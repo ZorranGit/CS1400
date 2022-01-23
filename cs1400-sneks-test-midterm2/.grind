@@ -1,0 +1,21 @@
+{
+    "assignmentID": 5591,
+    "problems": {
+        "cs1400-sneks-test-midterm-2_1-if": {
+            "id": 202,
+            "step": 1
+        },
+        "cs1400-sneks-test-midterm-2_4-looping": {
+            "id": 203,
+            "step": 1
+        },
+        "cs1400-sneks-test-midterm-2_2-list": {
+            "id": 204,
+            "step": 1
+        },
+        "cs1400-sneks-test-midterm-2_3-for": {
+            "id": 205,
+            "step": 1
+        }
+    }
+}

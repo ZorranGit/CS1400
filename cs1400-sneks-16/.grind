@@ -1,0 +1,33 @@
+{
+    "assignmentID": 1938,
+    "problems": {
+        "cs1400-sneks-16_05-string_operations_subscript_typo_3": {
+            "id": 223,
+            "step": 1
+        },
+        "cs1400-sneks-16_03-string_operations_subscript_typo": {
+            "id": 224,
+            "step": 1
+        },
+        "cs1400-sneks-16_04-string_operations_subscript_typo_2": {
+            "id": 225,
+            "step": 1
+        },
+        "cs1400-sneks-16_06-string_operations_order_out_of": {
+            "id": 226,
+            "step": 1
+        },
+        "cs1400-sneks-16_07-string_operations_user_dogs": {
+            "id": 227,
+            "step": 1
+        },
+        "cs1400-sneks-16_02-string_operations_boss_mistake": {
+            "id": 228,
+            "step": 1
+        },
+        "cs1400-sneks-16_01-string_operations_grab_animal": {
+            "id": 229,
+            "step": 1
+        }
+    }
+}

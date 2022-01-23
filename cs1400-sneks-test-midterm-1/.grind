@@ -1,0 +1,21 @@
+{
+    "assignmentID": 3870,
+    "problems": {
+        "cs1400-sneks-test-midterm1_01": {
+            "id": 263,
+            "step": 2
+        },
+        "cs1400-sneks-test-midterm1_02": {
+            "id": 264,
+            "step": 2
+        },
+        "cs1400-sneks-test-midterm1_03": {
+            "id": 265,
+            "step": 1
+        },
+        "cs1400-sneks-test-midterm1_04": {
+            "id": 266,
+            "step": 2
+        }
+    }
+}
